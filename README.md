@@ -1,1 +1,4 @@
 # ai-disaster-response-chatbot
+https://chatbot.getmindpal.com/disaster-response-agent-0l4
+
+Natural disasters such as floods, earthquakes, cyclones, landslides, and fires often cause severe damage to life and property. During such emergencies, affected people face difficulties in accessing timely information, emergency services, shelters, medical assistance, and rescue support. Existing disaster management systems often suffer from delayed communication, lack of real-time updates, and inefficient coordination among victims, volunteers, and rescue teams. Therefore, there is a need for an AI-powered Disaster Response Agent that can provide real-time alerts, identify affected areas, connect victims with nearby rescue resources, and assist authorities in making faster and more effective disaster response decisions.
